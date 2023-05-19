@@ -1,0 +1,18 @@
+Para execução no Android Studio fazer o build do projeto no emulador ou device.
+
+uso do padrao MVVM como arquitetura.
+
+Retrofit para as chamadas rest.
+
+Coroutines para processamento assincrono.
+
+Glide para lidar com loading das imagens.
+
+Jetpack Navigation para navegação do app.
+
+Koin para injeção de dependencias.
+---------------------------------------------------------------------------------------
+Funcionalidades:
+Listar os usuários.
+Exibir projetos e repositorios
+Exibir informações específicas de um usuário.
